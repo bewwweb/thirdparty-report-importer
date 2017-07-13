@@ -30,5 +30,5 @@ java -cp kiuwan-thirdparty-report-importer-0.2.3.jar com.kiuwan.importer.Main Br
 </pre>
 To convert an Infer report (Infer.json) to Kiuwan report (kiuwan_infer.xml) run:
 <pre>
-java -cp kiuwan-thirdparty-report-importer-0.2.3.jar com.kiuwan.importer.Main Infer infer.json  kiuwan_infer.xml -language=java|c|objectivec
+java   -cp kiuwan-thirdparty-report-importer-0.2.3.jar com.kiuwan.importer.Main Infer infer.json  kiuwan_infer.xml -language=java|c|objectivec
 </pre>
